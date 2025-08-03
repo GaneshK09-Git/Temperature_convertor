@@ -17,12 +17,16 @@ Converts:
 Example Usage:
 >
 Enter the temp: 100
+
 Enter the units of temp (f or c): c
+
 The temp in Fahrenheit is: 212.0 °F
 
 >
 Enter the temp: 98.6
+
 Enter the units of temp (f or c): f
+
 The temp in Celsius is: 37.0 °C
 
 
