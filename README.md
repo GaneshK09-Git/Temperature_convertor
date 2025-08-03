@@ -15,19 +15,25 @@ Converts:
 - Validates input for correct unit
 
 Example Usage:
->
+
+Ex:1
+
 Enter the temp: 100
 
 Enter the units of temp (f or c): c
 
 The temp in Fahrenheit is: 212.0 °F
 
->
+
+
+Ex:2
+
 Enter the temp: 98.6
 
 Enter the units of temp (f or c): f
 
 The temp in Celsius is: 37.0 °C
+
 
 
 Note:
